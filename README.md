@@ -65,7 +65,7 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 <!-- <td align="center"><a href="https://github.com/avinashkranjan"><img src="https://user-images.githubusercontent.com/55796944/95675026-dab07580-0bd1-11eb-93e2-1cb1de8acf38.png" width=150px height=150px /></a></br> <h4 style="color:red;">Avinash Ranjan</h4> -->
 <!-- <a href="https://www.linkedin.com/in/avinashkranjan/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td> -->
 
-<td align="center" ><a href="https://github.com/Lilasrinivasreddy"><img src="https://user-images.githubusercontent.com/55796944/119778028-95348480-bee4-11eb-86b2-0ba065316e5f.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Kaustubh Gupta</h4>
+<td align="center" ><a href="https://github.com/Lilasrinivasreddy"><img src="https://user-images.githubusercontent.com/55796944/119778028-95348480-bee4-11eb-86b2-0ba065316e5f.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Lila Srinivas Reddy</h4>
 <a href="https://https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 
 <!-- <td align="center"><a href="https://github.com/antrikshmisri"><img src="https://user-images.githubusercontent.com/55796944/119777909-72a26b80-bee4-11eb-829d-e5baa76bdb75.jpg" width=150px height=150px /></a></br> <h4 style="color:red;">Antriksh Misri</h4> -->
